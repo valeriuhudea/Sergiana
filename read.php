@@ -3,9 +3,9 @@
 <h2>Cauta Fise dupa Locatia interventiei</h2>
 
 <form method="post">
-	<label for="location">Locatia interventiei</label>
-	<input type="text" id="location" name="location">
-	<input type="submit" name="submit" value="View Results">
+	<label for="locatie">Locatia interventiei</label>
+	<input type="text" id="locatie" name="locatie">
+	<input type="submit" name="submit" value="Vezi rezultatul">
 </form>
 
 <a href="index.php">Inapoi la prima pagina</a>
