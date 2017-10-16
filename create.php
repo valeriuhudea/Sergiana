@@ -20,6 +20,7 @@
   	<label for="timpul">Timpul de Interventie</label>
 	<input type="text" name="timpul" id="timplu">
   	<label for="diagnosticare">Timpul de diagnosticare</label>
+	<input type="text" name="diagnosticare" id="diagnosticare">
   	<label for="timpul2">timpul de interventie previzionat</label>
 	<input type="text" name="timpul2" id="timpul2">
 	<label for="observatii">Observatii</label>
