@@ -11,8 +11,8 @@
 	<input type="text" name="locatie" id="locatie">
      	<label for="societatea">Societatea</label>
 	<input type="text" name="societatea" id="societatea">
-  	<label for="data">Data Sesizari</label>
-	<input type="text" name="data" id="data">
+  	<label for="dataa2">Data Sesizari</label>
+	<input type="text" name="dataa2" id="dataa2">
   	<label for="ora1">Ora Sesizari</label>
 	<input type="text" name="ora" id="ora">
   	<label for="dataa">Data Interventiei</label>
