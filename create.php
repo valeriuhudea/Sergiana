@@ -10,7 +10,7 @@
 	<label for="locatie">Locatia interventiei</label>
 	<input type="text" name="locatie" id="locatie">
      	<label for="societatea">Societatea</label>
-	<input type="text" name="locatie" id="locatie">
+	<input type="text" name="societatea" id="societatea">
   	<label for="data">Data Sesizari</label>
 	<input type="text" name="data" id="data">
   	<label for="ora1">Ora Sesizari</label>
