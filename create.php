@@ -9,18 +9,18 @@
 	<input type="text" name="operatiuni" id="operatiuni">
 	<label for="locatie">Locatia interventiei</label>
 	<input type="text" name="locatie" id="locatie">
-  <label for="societatea">Societatea</label>
+     	<label for="societatea">Societatea</label>
 	<input type="text" name="locatie" id="locatie">
-  <label for="data">Data Sesizari</label>
+  	<label for="data">Data Sesizari</label>
 	<input type="text" name="data" id="data">
-  <label for="ora1">Ora Sesizari</label>
+  	<label for="ora1">Ora Sesizari</label>
 	<input type="text" name="ora" id="ora">
-  <label for="data">Data Interventiei</label>
+  	<label for="data">Data Interventiei</label>
 	<input type="text" name="data" id="data">
-  <label for="timpul">Timpul de Interventie</label>
+  	<label for="timpul">Timpul de Interventie</label>
 	<input type="text" name="timpul" id="timplu">
-  <label for="diagnosticare">Timpul de diagnosticare</label>
-  <label for="timpul2">timpul de interventie previzionat</label>
+  	<label for="diagnosticare">Timpul de diagnosticare</label>
+  	<label for="timpul2">timpul de interventie previzionat</label>
 	<input type="text" name="timpul2" id="timpul2">
 	<label for="observatii">Observatii</label>
 	<input type="text" name="location" id="location">
