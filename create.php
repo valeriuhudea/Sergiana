@@ -15,8 +15,8 @@
 	<input type="text" name="data" id="data">
   	<label for="ora1">Ora Sesizari</label>
 	<input type="text" name="ora" id="ora">
-  	<label for="data">Data Interventiei</label>
-	<input type="text" name="data" id="data">
+  	<label for="dataa">Data Interventiei</label>
+	<input type="text" name="dataa" id="dataa">
   	<label for="timpul">Timpul de Interventie</label>
 	<input type="text" name="timpul" id="timplu">
   	<label for="diagnosticare">Timpul de diagnosticare</label>
