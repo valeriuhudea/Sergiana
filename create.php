@@ -9,7 +9,7 @@
 	<input type="text" name="operatiuni" id="operatiuni">
 	<label for="locatie">Locatia interventiei</label>
 	<input type="text" name="locatie" id="locatie">
-     	<label for="societatea">Societatea</label>
+    <label for="societatea">Societatea</label>
 	<input type="text" name="societatea" id="societatea">
   	<label for="dataa2">Data Sesizari</label>
 	<input type="text" name="dataa2" id="dataa2">
@@ -24,7 +24,7 @@
   	<label for="timpul2">timpul de interventie previzionat</label>
 	<input type="text" name="timpul2" id="timpul2">
 	<label for="observatii">Observatii</label>
-	<input type="text" name="location" id="location">
+	<input type="text" name="observatii" id="observatii">
 	<input type="submit" name="submit" value="Submit">
 </form>
 
