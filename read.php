@@ -79,7 +79,7 @@ if (isset($_POST['submit']))
 				<td><?php echo escape($row["timpul2"]); ?></td>
 				<td><?php echo escape($row["timpul3"]); ?></td>
 				<td><?php echo escape($row["obs"]); ?></td>
-				<td><?php echo escape($row["date1"]); ?> </td>
+				<td><?php echo escape($row["date"]); ?> </td>
 			</tr>
 		<?php 
 		} ?>
