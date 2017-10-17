@@ -8,16 +8,16 @@
 
 require "config.php";
 
-try 
+try
 {
-	$connection = new PDO("mysql:host=$host", $username, $password, $options);
-	$sql = file_get_contents("data/init.sql");
-	$connection->exec($sql);
-	
-	echo "Baza de date si tabela fise a fost creata.";
+    $connection = new PDO("mysql:host=$host", $username, $password, $options);
+    $sql = file_get_contents("data/init.sql");
+    $connection->exec($sql);
+    
+    echo "Database and table users created successfully.";
 }
 
 catch(PDOException $error)
 {
-	echo $sql . "<br>" . $error->getMessage();
+    echo $sql . "<br>" . $error->getMessage();
 }

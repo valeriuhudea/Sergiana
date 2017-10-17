@@ -8,8 +8,8 @@
 $host       = "localhost";
 $username   = "root";
 $password   = "root";
-$dbname     = "test"; // o vom folosi mai tarziu
-$dsn        = "mysql:host=$host;dbname=$dbname"; //  o vom folosi mai tarziu
+$dbname     = "test"; // will use later
+$dsn        = "mysql:host=$host;dbname=$dbname"; // will use later
 $options    = array(
-                PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
-              );
+    PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
+);
