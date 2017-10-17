@@ -18,19 +18,19 @@ if (isset($_POST['submit']))
         $connection = new PDO($dsn, $username, $password, $options);
         
         $new_user = array(
-            "nume" 				=> $_POST['nume'],
-            "tip"				=> $_POST['tip'],
+            "nume" 		=> $_POST['nume'],
+            "tip"		=> $_POST['tip'],
             "operatiuni"        => $_POST['operatiuni'],
-            "locatie"   		=> $_POST['locatie'],
+            "locatie"   	=> $_POST['locatie'],
             "societatatea"      => $_POST['societatatea'],
             "data_sesizarii"  	=> $_POST['data_sesizarii'],
             "data_sesizarii"  	=> $_POST['data_sesizarii'],
             "ora_sesizarii"  	=> $_POST['ora_sesizarii'],
-            "timpul"  			=> $_POST['timpul'],
-            "timpul2"  			=> $_POST['timpul2'],
-            "timpul3"  			=> $_POST['timpul3'],
-            "timpul3"  			=> $_POST['timpul3'],
-            "obs"  				=> $_POST['obs']
+            "timpul"  		=> $_POST['timpul'],
+            "timpul2"  		=> $_POST['timpul2'],
+            "timpul3"  		=> $_POST['timpul3'],
+            "timpul3"  		=> $_POST['timpul3'],
+            "obs"  		=> $_POST['obs']
             
         );
         
